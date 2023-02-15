@@ -1,10 +1,10 @@
 # What are Opera GX Mods?
 
-![GXMods](images/gxmods.png)
 
 GX Mods are a collection of customizations that allow users to create unique browsing experiences within Opera GX. With GX Mods, users can modify the browser's appearance, sounds, music, theme, wallpaper and even web content using web modding and shaders.
 
 Users can install multiple mods and choose which elements to enable, giving them full control over the desired final effect.
+![GXMods](images/gxmods.png)
 
 
 ## What can be done with mods?
@@ -42,7 +42,7 @@ As a quick start you can try some of the [sample mods](mods) provided.
 
 This will produce .CRX file that you can share with friends. Drag and drop it into Opera GX to install that mod.
 
-## Will there be a store?
+## I might make a GameBanana Page
 
-Yes.
+Quoted from SIG7.
 
